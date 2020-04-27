@@ -1,17 +1,19 @@
 
 
 body {
-	background-color: #7FFFD4; 
-	border: 10px dotted yellow;
+	background-color: pink;
+	border: 10px dotted #7FFFD4;
 }
 
 h1   {
 	color: blue;
+	font-family:fantasy;
 }
 
 h1:hover   {
-	color: orange;
+	color: red;
 }
+
 
 img:hover {
 	background-size: 300%
@@ -27,11 +29,11 @@ a:link {
 }
 
 
-a:hover { 
+a:hover {
     font-size: 300%
 }
 
-/* 
+/*
 img {
 	padding-bottom: 10%
 }
@@ -40,7 +42,7 @@ img {
 
 
 
-/* 
+/*
 img.resize {
    width:200px;
    height:40px;
@@ -50,5 +52,3 @@ img.resize {
 doge {
 
 }
-
-
